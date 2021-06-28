@@ -6,7 +6,7 @@
 
 ## 🤔 What kind of projects you will find here?
 
-### Cool projects made with passion
+You will find a proxy a language, a buggy custom function distribution library, some python quick hacks, cool school projects and the list goes on and on. In resume **Cool stuff made with passion**
 
 ## 🐱‍💻 Maybe we cross paths in HackTheBox
 
