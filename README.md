@@ -12,7 +12,7 @@ You will find a proxy a language, a buggy custom function distribution library, 
 
 [![HackTheBox](http://www.hackthebox.eu/badge/image/106709)](https://www.hackthebox.eu/profile/106709)
 
-## 🛠️ Checkout my stack 🔧
+## 🛠️ Check out my stack 🔧
 
 <div align="center">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
