@@ -1,12 +1,22 @@
 # Quick Preview
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=shoriwe">
-</div>
+![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoriwe&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoriwe&layout=compact&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤔 What kind of projects you will find here?
 
 You will find a proxy a language, a buggy custom function distribution library, some python quick hacks, cool school projects and the list goes on and on. In resume **Cool stuff made with passion**
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=FullProxy"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=gplasma"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=plasma"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=CAPitan"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=plasma-website"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=upb-motors"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=bftool"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=LVaED"/>
+</a>
 
 ## 🐱‍💻 Maybe we cross paths in HackTheBox
 
@@ -18,6 +28,7 @@ You will find a proxy a language, a buggy custom function distribution library, 
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
     <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
