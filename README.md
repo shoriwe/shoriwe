@@ -2,6 +2,8 @@
 
 Hello my name is Antonio. I'm a engineer and hacker, charmed with banking software and high availability and low latency solutions. Always worried about information security and horizontal scaling. I have experience developing market monitoring software and experience working as DevOps engineer.
 
+Checkout my [GitHub Pages](https://shoriwe.github.io/)
+
 ## 🛠️ My tools 🔧
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
