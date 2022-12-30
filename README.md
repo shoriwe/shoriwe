@@ -28,10 +28,8 @@ Checkout my [GitHub Pages](https://shoriwe.github.io/)
 You will find a proxy, a programming language, a custom function distribution library, python hacks, cool school projects and the list goes on and on. In resume **Cool stuff made with passion**
 
 [![FullProxy](https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=FullProxy)](https://github.com/shoriwe/FullProxy)
-[![gplasma](https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=gplasma)](https://github.com/shoriwe/gplasma)
 [![plasma](https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=plasma)](https://github.com/shoriwe/plasma)
 [![CAPitan](https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=CAPitan)](https://github.com/shoriwe/CAPitan)
 [![plasma-website](https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=plasma-website)](https://github.com/shoriwe/plasma-website)
 [![upb-motors](https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=upb-motors)](https://github.com/shoriwe/upb-motors)
-[![bftool](https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=bftool)](https://github.com/shoriwe/bftool)
 [![LVaED](https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=LVaED)](https://github.com/shoriwe/LVaED)
