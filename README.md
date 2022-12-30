@@ -30,6 +30,6 @@ You will find a proxy, a programming language, a custom function distribution li
 [![FullProxy](https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=FullProxy)](https://github.com/shoriwe/FullProxy)
 [![plasma](https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=plasma)](https://github.com/shoriwe/plasma)
 [![CAPitan](https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=CAPitan)](https://github.com/shoriwe/CAPitan)
-[![plasma-website](https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=plasma-website)](https://github.com/shoriwe/plasma-website)
+[![plasma-documentation](https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=plasma-documentation)](https://github.com/shoriwe/plasma-documentation)
 [![upb-motors](https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=upb-motors)](https://github.com/shoriwe/upb-motors)
 [![LVaED](https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=LVaED)](https://github.com/shoriwe/LVaED)
