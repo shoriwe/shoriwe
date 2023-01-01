@@ -26,6 +26,7 @@ Checkout my [GitHub Pages](https://shoriwe.github.io/)
 ## 🐱‍💻 Maybe we cross paths at HackTheBox
 
 <p align="center">
+	
 	<a href="https://www.hackthebox.eu/profile/106709">
 		<img src="http://www.hackthebox.eu/badge/image/106709" alt="htb"/>
 	</a>
@@ -33,10 +34,8 @@ Checkout my [GitHub Pages](https://shoriwe.github.io/)
 
 ## Stats related to my work
 
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoriwe&layout=compact&hide_border=true" alt="langs"/>
-	<img src="https://github-readme-stats.vercel.app/api?username=shoriwe&show_icons=true&hide_border=true" alt="shoriwe stats"/>
-</p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoriwe&layout=compact&hide_border=true" alt="langs"/> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=shoriwe&show_icons=true&hide_border=true" alt="shoriwe stats"/> |
+| ---------- | ---------- |
 
 ## 🤔 What kind of projects you will find here?
 
