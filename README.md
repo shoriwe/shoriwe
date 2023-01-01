@@ -26,7 +26,6 @@ Checkout my [GitHub Pages](https://shoriwe.github.io/)
 ## 🐱‍💻 Maybe we cross paths at HackTheBox
 
 <p align="center">
-	
 	<a href="https://www.hackthebox.eu/profile/106709">
 		<img src="http://www.hackthebox.eu/badge/image/106709" alt="htb"/>
 	</a>
