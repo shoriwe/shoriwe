@@ -8,7 +8,7 @@ Checkout my [GitHub Pages](https://shoriwe.github.io/)
   <a href="https://github.com/shoriwe">
     <img src="https://github-profile-trophy.vercel.app/?username=shoriwe&row=1" alt="shorier-trophy"/>
   </a>
-</p>                                                                                 
+</p>
 
 ## 🛠️ My tools 🔧
 
@@ -60,3 +60,7 @@ You will find a proxy, a programming language, a custom function distribution li
     <img alt="LVaED" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=LVaED"/>
   </a>
 </p>
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-donis/)
