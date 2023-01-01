@@ -33,10 +33,8 @@ Checkout my [GitHub Pages](https://shoriwe.github.io/)
 
 ## Stats related to my work
 
-<p align="center">
-  <img style="height: 200px;" alt="Antonio's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shoriwe&include_all_commits=true&show_icons=true"/>
-  <img style="height: 200px;" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoriwe&layout=compact&hide=php"/>
-</p>
+| <img align="center" alt="Antonio's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shoriwe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/> | <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoriwe&layout=compact&hide=php&hide_border=true"/> |
+| -------- | -------- |
 
 ## 🤔 What kind of projects you will find here?
 
