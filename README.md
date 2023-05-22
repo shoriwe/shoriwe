@@ -44,27 +44,6 @@ Checkout my [GitHub Pages](https://shoriwe.github.io/)
 
 You will find a proxy, a programming language, a custom function distribution library, python hacks, cool school projects and the list goes on and on. In resume **Cool stuff made with passion**
 
-<p align="center">
-  <a href="https://github.com/shoriwe/fullproxy">
-    <img alt="fullproxy" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=fullproxy"/>
-  </a>
-  <a href="https://github.com/shoriwe/CAPitan">
-    <img alt="CAPitan" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=CAPitan"/>
-  </a>
-  <a href="https://github.com/shoriwe/plasma">
-    <img alt="plasma" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=plasma"/>
-  </a>
-  <a href="https://github.com/shoriwe/plasma-documentation">
-    <img alt="plasma-documentation" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=plasma-documentation"/>
-  </a>
-  <a href="https://github.com/shoriwe/upb-motors">
-    <img alt="upb-motors" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=upb-motors"/>
-  </a>
-  <a href="https://github.com/shoriwe/LVaED">
-    <img alt="LVaED" src="https://github-readme-stats.vercel.app/api/pin/?show_owner=shoriwe&username=shoriwe&repo=LVaED"/>
-  </a>
-</p>
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-donis/)
