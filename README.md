@@ -37,7 +37,7 @@ Checkout my [GitHub Pages](https://shoriwe.github.io/)
 
 ## Stats related to my work
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoriwe&layout=compact&hide_border=true" alt="langs"/> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=shoriwe&show_icons=true&hide_border=true" alt="shoriwe stats"/> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoriwe&size_weight=0.1&count_weight=1&langs_count=5&layout=pie&hide=html,css,objective-c" alt="langs"/> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=shoriwe&show_icons=true&hide_border=true" alt="shoriwe stats"/> |
 | ---------- | ---------- |
 
 ## 🤔 What kind of projects you will find here?
