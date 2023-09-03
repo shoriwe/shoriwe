@@ -1,12 +1,12 @@
-# Portfolio
-
-[https://shoriwe.github.io/](https://shoriwe.github.io/)
-
 # `$ whoami`
 
-Hello my name is Antonio. I'm a engineer and hacker, charmed with banking software and high availability and low latency solutions. Always worried about information security and horizontal scaling. I have experience developing market monitoring software and experience working as DevOps engineer.
+Hello! I'm Antonio, a Software Engineer, DevOps engineer, and Hacker from Colombia. Here are some highlights about me:
 
-Checkout my [GitHub Pages](https://shoriwe.github.io/)
+- 🔗 Checkout my [Portfolio](https://shoriwe.github.io/)
+- 🚀 I have a strong passion for low-latency solutions.
+- 🥷 Information security and horizontal scaling are at the forefront of my concerns.
+- 🎆 My personal endeavors mainly revolve around networking, cybersecurity, DeFi and automation.
+- 🤝 I'm always keen to contribute to projects that align with my values and beliefs.
 
 <p align="center">
   <a href="https://github.com/shoriwe">
