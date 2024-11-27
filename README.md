@@ -30,7 +30,7 @@ Hello! I'm Antonio, a Software Engineer, DevOps engineer, and Hacker from Colomb
 ## 🐱‍💻 Maybe we cross paths at HackTheBox
 
 <p align="center">
-	<a href="https://www.hackthebox.eu/profile/106709">
+	<a href="https://app.hackthebox.eu/profile/106709">
 		<img src="http://www.hackthebox.eu/badge/image/106709" alt="htb"/>
 	</a>
 </p>
