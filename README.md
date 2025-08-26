@@ -4,8 +4,8 @@ I'm a software engineer passionate about **decentralization**, **AI**, **free sp
 
 ### My Work
 
-* **ZedCloud:** I'm exploring interesting applications of AI to create a knoledge source platforms.
-* **XMR Gateway:** I'm making it easier for e-commerce businesses to accept Monero, a private and secure cryptocurrency.
+* **[ZedCloud](https://www.zedcloud.org):** I'm exploring interesting applications of AI to create a knoledge source platforms.
+* **[XMR Gateway](https://xmrgateway.com):** I'm making it easier for e-commerce businesses to accept Monero, a private and secure cryptocurrency.
 
 ### Skills
 
